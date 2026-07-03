@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -55,9 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
