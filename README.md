@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 ## Stack
 |  |
 | ------- |
