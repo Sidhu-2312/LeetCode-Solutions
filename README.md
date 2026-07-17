@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
@@ -156,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
