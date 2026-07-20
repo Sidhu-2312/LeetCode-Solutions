@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [1260-shift-2d-grid](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
