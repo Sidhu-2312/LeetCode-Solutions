@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
