@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1260-shift-2d-grid](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
