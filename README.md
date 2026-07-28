@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
