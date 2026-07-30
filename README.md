@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
