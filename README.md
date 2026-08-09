@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -283,9 +285,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
