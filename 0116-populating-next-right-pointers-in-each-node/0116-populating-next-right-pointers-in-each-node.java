@@ -23,11 +23,11 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        
+
         if(root==null){
             return null;
-        } 
-        Node leftmost=root;
+        }
+        Node leftmost = root;
         while(leftmost.left!=null){
             Node current = leftmost;
             while(current!=null){
@@ -37,8 +37,9 @@ class Solution {
                 }
                 current = current.next;
             }
-            leftmost = leftmost.left;
+            leftmost=leftmost.left;
         }
         return root;
-    }
+        
+   }
 }
