@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Math
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -382,5 +386,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
