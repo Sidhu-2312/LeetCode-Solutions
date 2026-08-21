@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## String Matching
 |  |
