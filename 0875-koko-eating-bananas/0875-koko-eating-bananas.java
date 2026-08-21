@@ -13,7 +13,7 @@ class Solution {
         int high = maxPiles;
         int ans=maxPiles;
         while(low<=high){
-            int mid = (low + high)/2;
+            int mid = low + (high - low)/2;
             long totalH=countHours(piles,mid);
             if(totalH<=h){
                 ans = mid;
