@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0771-jewels-and-stones](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
