@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## String Matching
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
@@ -468,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
