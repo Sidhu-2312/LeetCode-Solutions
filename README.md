@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
