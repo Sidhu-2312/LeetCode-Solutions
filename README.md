@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3871-count-commas-in-range-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
