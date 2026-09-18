@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -513,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sidhu-2312/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
